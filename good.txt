@@ -1,3 +1,13 @@
 good morning
 my first git commit
 my second change
+
+git知识点总结
+git status:查看本地Git仓库状态
+git add [file name]添加代码到缓冲区
+git commit -m　“提交的代码信息”[file name] 提交代码到本地仓库
+vim 文本编译
+:wq 保存退出
+:set nu 显示行号
+
+

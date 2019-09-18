@@ -16,5 +16,11 @@ vim 文本编译
 查看历史记录的三种方式
 1.git log --pretty=oneline
 2.git log --oneline 在--pretty=oneline的基础之上缩短了哈希的显示
-3.git log --reflog 在--oneline的基础之上显示回到某一个版本需要几步
+3.git reflog 在--oneline的基础之上显示回到某一个版本需要几步
+
+一些基础的操作
+空格向下翻页
+b向上翻页
+q退出
+
 

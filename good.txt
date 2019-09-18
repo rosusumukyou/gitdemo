@@ -24,5 +24,6 @@ b向上翻页
 q退出
 
 版本的前进和后退三种方法
-1. git reset --hard 哈希索引值9e19587
-
+1. git reset --hard 哈希索引值9e19587.
+2. git reset --hard HEAD^ 此种方法只容许后退，一个^后退一步 n个^后退n步.
+3. git reset --hard HEAD~2 也是只能后退弥补2的不足，波浪线加数。表示后退几步.

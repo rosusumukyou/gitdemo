@@ -39,4 +39,8 @@ git rm filenam删除后，git的历史记录任然保存。可以通过返回版
 git help 命令
 查看该命令的一些文档
 
+git diff命令
+git diff [filename] 当你刚修改玩一个文件后
+没有添加到缓存区 使用git的话是本地和缓存区比较
 
+git diff 不加参数的话是整个Git目录中的文件真题比较

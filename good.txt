@@ -55,6 +55,6 @@ Git branch 【分支名】 创建新的分支
 Git checkout 【分支名】 切换分支
 
 marge 的时候必须切换的被marge的分支
-Git marge 【分支名】
+Git merge 【分支名】
 
 

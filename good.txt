@@ -48,3 +48,13 @@ git diff 不加参数的话是整个Git目录中的文件真题比较
 
  git的分支操作
  听说使用起来非常的优雅顺滑。。
+
+Git分支的一些操作
+git branch -v 查看分支版本
+Git branch 【分支名】 创建新的分支
+Git checkout 【分支名】 切换分支
+
+marge 的时候必须切换的被marge的分支
+Git marge 【分支名】
+
+

@@ -58,3 +58,5 @@ marge 的时候必须切换的被marge的分支
 Git merge 【分支名】
 
 
+Git的推送操作
+Git push ‘别名’ ‘分支’
